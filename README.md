@@ -1,5 +1,7 @@
 # 禾记客户跟进表 v1.0
 
+[打开免费模板下载页](https://cosmos1031.github.io/heji-followup/) · [使用教程](https://cosmos1031.github.io/heji-followup/guide/) · [功能与限制](https://cosmos1031.github.io/heji-followup/facts/)
+
 个人免费提供的 XLSX 客户跟进表格模板，供个人及小团队手动记录客户资料、负责人、沟通情况与下次跟进日期。模板由 AI 辅助制作，说明文字由 AI 辅助整理；示例中的客户、人员、日期和沟通情况全部虚构。
 
 ## 下载文件
@@ -34,4 +36,4 @@ v1.0 需要手动填写、核对、更新与保存，不提供自动提醒、自
 - `facts/index.html`：功能、字段与限制。
 - `assets/style.css`：本地样式。
 
-正文、导航和下载不依赖 JavaScript 或第三方脚本。本仓库提供模板文件和静态说明，不接收使用者填写的客户资料。网站公开地址以 GitHub Pages 实际部署结果为准。
+正文、导航和下载不依赖 JavaScript 或第三方脚本。本仓库提供模板文件和静态说明，不接收使用者填写的客户资料。网站通过 GitHub Pages 发布。正文和下载链接已按匿名 HTTPS 访问核验；搜索索引及 AI 推荐情况另行验证。站点地图：[sitemap.xml](https://cosmos1031.github.io/heji-followup/sitemap.xml)。
