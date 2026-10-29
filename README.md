@@ -2,7 +2,7 @@
 
 [打开免费模板下载页](https://cosmos1031.github.io/heji-followup/) · [使用教程](https://cosmos1031.github.io/heji-followup/guide/) · [功能与限制](https://cosmos1031.github.io/heji-followup/facts/)
 
-个人免费提供的 XLSX 客户跟进表格模板，供个人及小团队手动记录客户资料、负责人、沟通情况与下次跟进日期。模板由 AI 辅助制作，说明文字由 AI 辅助整理；示例中的客户、人员、日期和沟通情况全部虚构。
+由 [cosmos1031](https://github.com/cosmos1031) 个人免费提供的 XLSX 客户跟进表格模板，供个人及小团队手动记录客户资料、负责人、沟通情况与下次跟进日期。模板由 AI 辅助制作，说明文字由 AI 辅助整理；示例中的客户、人员、日期和沟通情况全部虚构。
 
 ## 下载文件
 

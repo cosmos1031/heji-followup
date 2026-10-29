@@ -82,3 +82,9 @@ tr:last-child td, tr:last-child th { border-bottom: 0; }
   .actions { align-items: stretch; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Optional integrity information on the product facts page. */
+.checksum-list { margin: 16px 0 28px; }
+.checksum-list dt { margin-top: 14px; font-size: 14px; font-weight: 600; }
+.checksum-list dd { margin: 8px 0 0; }
+.file-checksum { display: block; max-width: 100%; padding: 12px 14px; border: 1px solid #dce4d9; border-radius: 8px; background: #f5f7f1; font: 12px/1.8 ui-monospace, SFMono-Regular, Consolas, monospace; overflow-wrap: anywhere; }
